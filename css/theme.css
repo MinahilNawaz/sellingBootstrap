@@ -600,7 +600,7 @@ blockquote {
 	box-shadow: 2px 5px 5px rgb(0 0 0 / 10%);
 }
 
-.card img:hover {
+.projects img:hover {
 	z-index: 2;
 	transition: 0.4s all ease;
 	transform: scale(1.05);
